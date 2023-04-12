@@ -76,3 +76,5 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prharshith&theme=highcontrast&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prharshith)](https://github.com/anuraghazra/github-readme-stats)
