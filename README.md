@@ -43,4 +43,12 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 - :zap: In my free time, I practice commands in Kali LInux.
 
-- :mailbox:How to reach me: <a href="mailto:hello@prharshith.tk">Write Me a Mail</a>
+- :mailbox: How to reach me: <a href="mailto:hello@prharshith.tk">Write Me a Mail</a>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop SVG" width="40" height="40"/>&nbsp;
+  </div>
