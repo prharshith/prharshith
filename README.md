@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=prharshith&style=flat-square&color=blue" alt="" align="center"/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/2sbLlG7XNuzzeVKvw0/giphy.gif" width="600" height="300"/>
+</div>
