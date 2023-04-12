@@ -52,7 +52,7 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS SVG" width="40" height="40"/>&nbsp;
   
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop SVG" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop SVG" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Aache" alt="Apache SVG" width="40" height="40"/>&nbsp;
   
