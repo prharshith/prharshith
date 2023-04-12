@@ -71,3 +71,8 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro SVG" width="40" height="40"/>
   
 </div>
+
+---
+
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=prharshith
