@@ -60,12 +60,9 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="Filezilla" alt="Filezilla SVG" width="40" height="40"/>&nbsp;
   
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML5 SVG" width="40" height="40"/>&nbsp;
   
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript SVG" width="40" height="40"/>&nbsp;
-  
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python SVG" width="40" height="40"/>&nbsp;
   
