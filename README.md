@@ -108,4 +108,8 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 <a href="https://status.prharshith.tk">Check Out My Live Status Page For My Server's Here!</a>
 
-- ⚡ Fun fact: I have 10 website's up and running and managed by me while you are reading this
+
+---
+### ⚡: Fun Facts :
+
+- 💻 Fun fact: I have 10 website's up and running and managed by me while you are reading this
