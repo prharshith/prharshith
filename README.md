@@ -77,9 +77,20 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github SVG" width="40" height="40"/>
   
   
-  <img src="" title="" alt=" SVG" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter SVG" width="40" height="40"/>
   
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex SVG" width="40" height="40"/>
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL SVG" width="40" height="40"/>
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" alt="Ubuntu SVG" width="40" height="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud SVG" width="40" height="40"/>
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva SVG" width="40" height="40"/>
   
 </div>
 
