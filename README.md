@@ -51,8 +51,6 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS SVG" width="40" height="40"/>&nbsp;
-  
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop SVG" width="40" height="40"/>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Aache" alt="Apache SVG" width="40" height="40"/>
   
@@ -68,7 +66,20 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" title="Redhat" alt="Redhat SVG" width="40" height="40"/>
   
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop SVG" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Premiere Pro" alt="Premiere Pro SVG" width="40" height="40"/>
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3 SVG" width="40" height="40"/>
+  
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github SVG" width="40" height="40"/>
+  
+  
+  <img src="" title="" alt=" SVG" width="40" height="40"/>
+  
+  
   
 </div>
 
@@ -81,5 +92,7 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 ---
 
-### :writing_hand: Blog Posts :
-<a href="https://blog.prharshith.tk"> Check out my blog posts here! </a>
+### :writing_hand: Blog Posts & Other Stuff:
+<a href="https://blog.prharshith.tk"> Check Out My Blog Posts Here! </a>
+
+<a href="https://status.prharshith.tk"> Live Status Page For My Server's </a>
