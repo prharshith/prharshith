@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Hyderabad-based technophile with a passion for the impact of modern technology on society  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. My expertise includes Web and UI Design, DBMS, and proficiency in multiple operating systems such as Red Hat Enterprise Linux, Centos 7 Server, Ubuntu Server, Windows Server, and Kali Linux.
-- :telescope: I worked as an intern and contributed in server administration and web development.
+- :telescope: I worked as an intern and contributed in server administration and computer/mobile forensics.
 
 - :seedling: Exploring Cybersecurity/Ethical Hacking Tutorials.
 
