@@ -113,4 +113,3 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 ### ⚡: Fun Facts :
 
 - 💻 I have 10 website's up and running and managed by me while you are reading this!
-- 
