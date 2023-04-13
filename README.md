@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=prharshith&style=flat-square&color=blue" alt="" align="center"/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/2sbLlG7XNuzzeVKvw0/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 I am a Hyderabad-based technophile with a passion for the impact of modern technology on society  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. My expertise includes Web and UI Design, DBMS, and proficiency in multiple operating systems such as Red Hat Enterprise Linux, Centos 7 Server, Ubuntu Server, Windows Server, and Kali Linux.
 - :telescope: I worked as an intern and contributed in server administration and web development.
 
-- :seedling: Exploring Ethical Hacking Tutorials.
+- :seedling: Exploring Cybersecurity/Ethical Hacking Tutorials.
 
-- :zap: In my free time, I practice commands in Kali LInux.
+- :zap: In my free time, I practice commands in Kali Linux.
 
 - :mailbox: How to reach me: <a href="mailto:hello@prharshith.tk">Write Me a Mail</a>
 
