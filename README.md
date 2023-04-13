@@ -97,13 +97,13 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prharshith&theme=highcontrast&border_radius=4&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prharshith&theme=dark)](https://git.io/streak-stats)
 
-![P R HARSHITH's GitHub stats](https://github-readme-stats.vercel.app/api?username=prharshith&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prharshith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :writing_hand: Blog Posts & Other Stuff:
 <a href="https://blog.prharshith.tk"> Check Out My Blog Posts Here! </a>
 
-<a href="https://status.prharshith.tk"> Live Status Page For My Server's </a>
+<a href="https://status.prharshith.tk">Check Out My Live Status Page For My Server's Here!</a>
