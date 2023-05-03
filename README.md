@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </div>-->
 
-<img src="https://komarev.com/ghpvc/?username=prharshith&style=flat-square&color=blue" alt="" align="center"/>
+<!--<img src="https://komarev.com/ghpvc/?username=prharshith&style=flat-square&color=blue" alt="" align="center"/>-->
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
