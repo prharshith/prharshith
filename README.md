@@ -45,7 +45,7 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 - :zap: In my free time, I practice commands in Kali Linux.
 
-- :mailbox: How to reach me: <a href="mailto:hello@prharshith.tk">Write Me a Mail</a>
+- :mailbox: How to reach me: <a href="mailto:prharshith38@gmail.com">Write Me a Mail</a>
 
 ---
 
