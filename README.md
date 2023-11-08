@@ -108,7 +108,7 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 ### :writing_hand: Blog Posts & Other Stuff:
 <a href="https://blog.prharshith.tk" target="_blank"> Check Out My Blog Posts Here! </a>
 
-<a href="https://status.prharshith.tk" target="_blank">Check Out My Live Status Page For My Server's Here!</a>
+<a href="https://statusprh.github.io" target="_blank">Check Out My Live Status Page For My Server's Here!</a>
 
 
 ---
