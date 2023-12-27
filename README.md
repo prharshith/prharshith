@@ -98,10 +98,12 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prharshith&theme=dark)](https://git.io/streak-stats)
+### :fire: My Github Stats :
+![PRH's GitHub stats](https://github-readme-stats.vercel.app/api?username=prharshith&show_icons=true&theme=codeSTACKr)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prharshith&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prharshith&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prharshith&layout=compact&theme=vision-friendly-dark)
 
 ---
 
