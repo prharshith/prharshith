@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### :man_technologist: About Me :
 I am a Hyderabad-based technophile with a passion for the impact of modern technology on society  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. My expertise includes Web and UI Design, DBMS, and proficiency in multiple operating systems such as Red Hat Enterprise Linux, Centos 7 Server, Ubuntu Server, Windows Server, and Kali Linux.
-- :telescope: I worked as a Linux Server Administrator and MySQL intern at Green Lantern IT Solutions Pvt. Ltd.
+<!-- - :telescope: I worked as a Linux Server Administrator and MySQL intern at Green Lantern IT Solutions Pvt. Ltd.
 
-- :telescope: I worked as a Computer & Mobile Forensics intern at CFSL Hyderabad.
+- :telescope: I worked as a Computer & Mobile Forensics intern at CFSL Hyderabad. -->
 
 - :seedling: Exploring Cybersecurity/Ethical Hacking Tutorials.
 
@@ -108,7 +108,7 @@ I am a Hyderabad-based technophile with a passion for the impact of modern techn
 ---
 
 ### :writing_hand: Blog Posts & Other Stuff:
-<a href="https://blog.prharshith.tk" target="_blank"> Check Out My Blog Posts Here! </a>
+<a href="https://prharshith.hashnode.dev" target="_blank"> Check Out My Blog Posts Here! </a>
 
 <a href="https://statusprh.github.io" target="_blank">Check Out My Live Status Page For My Server's Here!</a>
 
